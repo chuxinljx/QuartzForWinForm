@@ -1,0 +1,8 @@
+D:\Project\TestDll2\bin\Debug\TestDll2.dll
+D:\Project\TestDll2\bin\Debug\TestDll2.pdb
+D:\Project\TestDll2\bin\Debug\Quartz.dll
+D:\Project\TestDll2\bin\Debug\Quartz.pdb
+D:\Project\TestDll2\bin\Debug\Quartz.xml
+D:\Project\TestDll2\obj\Debug\TestDll2.csproj.CopyComplete
+D:\Project\TestDll2\obj\Debug\TestDll2.dll
+D:\Project\TestDll2\obj\Debug\TestDll2.pdb

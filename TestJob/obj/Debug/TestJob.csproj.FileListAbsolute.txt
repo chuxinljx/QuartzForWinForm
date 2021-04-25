@@ -1,0 +1,10 @@
+D:\Project\TestJob\bin\Debug\TestJob.exe.config
+D:\Project\TestJob\bin\Debug\TestJob.exe
+D:\Project\TestJob\bin\Debug\TestJob.pdb
+D:\Project\TestJob\bin\Debug\Quartz.dll
+D:\Project\TestJob\bin\Debug\Quartz.pdb
+D:\Project\TestJob\bin\Debug\Quartz.xml
+D:\Project\TestJob\obj\Debug\TestJob.csproj.CopyComplete
+D:\Project\TestJob\obj\Debug\TestJob.exe
+D:\Project\TestJob\obj\Debug\TestJob.pdb
+D:\Project\TestJob\obj\Debug\TestJob.csprojAssemblyReference.cache
